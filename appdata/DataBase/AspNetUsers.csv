@@ -1,0 +1,1 @@
+Id,AccessFailedCount,ConcurrencyStamp,Email,EmailConfirmed,LastLoginDate,LockoutEnabled,LockoutEnd,Name,NormalizedEmail,NormalizedUserName,OAuthId,PasswordHash,PhoneNumber,PhoneNumberConfirmed,Quota,RegisterDate,SecurityStamp,Status,TwoFactorEnabled,UserName
